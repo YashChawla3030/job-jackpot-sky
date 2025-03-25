@@ -121,7 +121,7 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "Jan'23 – Present",
+        "timeline": "Jan'23 – Now",
         "projectName": "AWS Cloud Dashboard",
         "headline1": "Designed cloud-native applications with AWS Lambda & DynamoDB.",
         "headline2": "Implemented CI/CD pipelines for automated deployments.",
@@ -170,6 +170,21 @@
           }
         ],
         "rank": "2"
+      },
+      {
+        "timeline": "2022-2024",
+        "projectName": "abcd",
+        "headline1": "heyy",
+        "headline2": "heyy",
+        "designation": "engineer",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "github, vercel",
+        "companyName": "yash",
+        "images": [],
+        "rank": "4"
       }
     ]
   },
