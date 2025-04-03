@@ -170,21 +170,6 @@
           }
         ],
         "rank": "2"
-      },
-      {
-        "timeline": "2022-2024",
-        "projectName": "abcd",
-        "headline1": "heyy",
-        "headline2": "heyy",
-        "designation": "engineer",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "skills": "github, vercel",
-        "companyName": "yash",
-        "images": [],
-        "rank": "4"
       }
     ]
   },
