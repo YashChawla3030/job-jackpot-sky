@@ -22,17 +22,17 @@
     "description": "Passionate Full Stack Developer with expertise in designing, developing, and deploying scalable web applications. Skilled in frontend and backend technologies, cloud services, and DevOps practices."
   },
   "skillsInfo": {
-    "displayName": "Specialization",
+    "displayName": "Skills",
     "skills": [
-      {
-        "id": "1740395651799",
-        "name": "Angular",
-        "rating": 7
-      },
       {
         "id": "1740395657898",
         "name": "ReactJS",
         "rating": 5
+      },
+      {
+        "id": "1740395651799",
+        "name": "Angular",
+        "rating": 7
       },
       {
         "id": "1740395644199",
@@ -88,9 +88,14 @@
         "id": "1740395765849",
         "name": "AWS",
         "rating": 5
+      },
+      {
+        "id": "1743676006033",
+        "name": "Github",
+        "rating": 8.5
       }
     ],
-    "skillAnimationType": "moving-animation"
+    "skillAnimationType": "scale-animation"
   },
   "achievementsInfo": {
     "displayName": "Achievements",
