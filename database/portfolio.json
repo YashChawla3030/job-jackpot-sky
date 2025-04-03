@@ -96,11 +96,6 @@
     "displayName": "Achievements",
     "listOfAchievements": [
       {
-        "id": "1742904079239",
-        "text": "heyy",
-        "type": "other"
-      },
-      {
         "id": "1740396546601",
         "text": "Achieved MongoDB Certified Developer status, showcasing advanced knowledge of NoSQL database design, indexing, and query optimization.",
         "type": "certificate"
