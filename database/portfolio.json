@@ -118,7 +118,7 @@
     ]
   },
   "projectsInfo": {
-    "displayName": "Timeline",
+    "displayName": "Experience",
     "projects": [
       {
         "timeline": "Jan'23 – Now",
@@ -189,7 +189,12 @@
           "linkText": "Degree",
           "linkUrl": "https://github.com/"
         },
-        "images": [],
+        "images": [
+          {
+            "fileName": "icdb.png",
+            "fileUrl": "https://raw.githubusercontent.com/YashChawla3030/job-jackpot-sky/master/images/icdb.png"
+          }
+        ],
         "rank": "3"
       }
     ]
