@@ -101,11 +101,6 @@
     "displayName": "Achievements",
     "listOfAchievements": [
       {
-        "id": "1740396546601",
-        "text": "Achieved MongoDB Certified Developer status, showcasing advanced knowledge of NoSQL database design, indexing, and query optimization.",
-        "type": "certificate"
-      },
-      {
         "id": "1740396513085",
         "text": "Recognized as a Top 10 Finalist in the GitHub Open Source Challenge for contributing to large-scale full-stack projects and optimizing existing frameworks.",
         "type": "award"
